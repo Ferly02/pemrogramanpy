@@ -1,5 +1,5 @@
 # latihan1
-# LatihanVCS
+# LatihanVXS
 
 # Tutorial Menggunakan Git
 
